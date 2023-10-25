@@ -2,7 +2,7 @@
 Refer to the guided folder structure for the DAP Course.
 
 # Create New Folder in Desktop
-
+'''
 Course_DAP 
 ├── CO1
 |    ├── Course Material 
