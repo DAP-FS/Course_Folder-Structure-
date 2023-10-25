@@ -1,8 +1,8 @@
 # Data Analysis using Python Course_Folder-Structure
 Refer to the guided folder structure for the DAP Course.
 
-# Create New Folder in Desktop
-'''
+# Create a New Folder on the Desktop
+```
 Course_DAP 
 ├── CO1
 |    ├── Course Material 
