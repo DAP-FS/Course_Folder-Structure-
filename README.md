@@ -10,7 +10,7 @@ Create a New Folder on the Desktop
 Course_DAP 
 ├── CO1 
 |      ├── Data Mindset
-                 ├── Course Material 
+|                ├── Course Material 
 │                |                └── Lecture Slide.pdf
 |                ├── Assessment 
 |                |       ├── Set0X_Dataset.csv
