@@ -36,7 +36,7 @@ Course_DAP
 |    |                     ├── 5ds_salaries.csv
 |    |                     ├── 6Mcd_null_values
 |    |                     ├── 6Mcd.csv
-|    |                    └── 7games.csv
+|    |                     └── 7games.csv
 │    |
 │    ├── Mean  
 |          ├── Course Material ....
